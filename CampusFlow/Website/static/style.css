@@ -1,0 +1,52 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.logo_text {
+	font-family: 'Black Ops One', cursive;
+}
+
+.header_sub_text {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+	color: #000000;
+	font-family: 'Lato', sans-serif;
+	font-size: 54px;
+	font-weight: 300;
+	line-height: 58px;
+	margin: 0 0 20px;
+}
+
+#video {
+	display: none;
+	border-radius: 20px;
+	border: 5px solid #6366f1;
+	margin-top: 30px;
+}
+
+#testimonials,
+#features,
+#footer,
+#navbar,
+.product {
+	background-color: #F1F6F9;
+}
+
+.product_heading {
+	color: #000000;
+	font-family: 'Audiowide', 'Arial';
+	line-height: 58px;
+	margin: 0 0 20px;
+	padding-top: 40px;
+}
+
+.header_text,
+.index_headers,
+.register_heading {
+	color: #000000;
+	font-family: 'Audiowide', 'Arial';
+	line-height: 58px;
+	margin: 0 0 20px;
+}
